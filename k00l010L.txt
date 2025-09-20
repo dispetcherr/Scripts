@@ -11948,15 +11948,15 @@ scriptbyblue2spooky.MouseButton1Click:Connect(function()
  
     RequestCommand:InvokeServer(";createteam red HAHA")
 	RequestCommand:InvokeServer(";createteam blue FILTERING DISABLED")
-	RequestCommand:InvokeServer(";createteam db CRY")
-	RequestCommand:InvokeServer(";createteam green Hacked")
+	RequestCommand:InvokeServer(";createteam db CRY KIDS")
+	RequestCommand:InvokeServer(";createteam green Hacked by k00lkidd")
 	RequestCommand:InvokeServer(";createteam dg FE BYPASSED!")
-	RequestCommand:InvokeServer(";createteam pk LOLOLOLOLOL")
+	RequestCommand:InvokeServer(";createteam pk LOL EASY HACK")
 	RequestCommand:InvokeServer(";createteam p HAHAHAHAHA")
-	RequestCommand:InvokeServer(";createteam y GG")
-	RequestCommand:InvokeServer(";createteam o very much hack")
+	RequestCommand:InvokeServer(";createteam y GG server fucked")
+	RequestCommand:InvokeServer(";createteam o very much hack by k00lkidd")
 	RequestCommand:InvokeServer(";createteam black fe go bye bye")
-	RequestCommand:InvokeServer(";createteam white hacked")
+	RequestCommand:InvokeServer(";createteam white hacked by k00lkidd")
 
 
  
